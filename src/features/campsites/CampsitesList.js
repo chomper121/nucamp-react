@@ -1,4 +1,4 @@
-import { CAMPSITES } from "../../app/shared/CAMPSITES";
+//import { CAMPSITES } from "../../app/shared/old data/CAMPSITES";
 import { Col, Row } from "reactstrap";
 import { selectAllCampsites } from "./campsitesSlice";
 import CampsiteCard from "./CampsiteCard";
